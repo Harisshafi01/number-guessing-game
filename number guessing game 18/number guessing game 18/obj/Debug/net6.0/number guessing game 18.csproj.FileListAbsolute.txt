@@ -1,0 +1,14 @@
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.AssemblyInfoInputs.cache
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.AssemblyInfo.cs
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.csproj.CoreCompileInputs.cache
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\bin\Debug\net6.0\number guessing game 18.exe
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\bin\Debug\net6.0\number guessing game 18.deps.json
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\bin\Debug\net6.0\number guessing game 18.runtimeconfig.json
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\bin\Debug\net6.0\number guessing game 18.dll
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\bin\Debug\net6.0\number guessing game 18.pdb
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.dll
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\refint\number guessing game 18.dll
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.pdb
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\number guessing game 18.genruntimeconfig.cache
+C:\Users\darha\Desktop\c# codes\number guessing game 18\number guessing game 18\obj\Debug\net6.0\ref\number guessing game 18.dll
